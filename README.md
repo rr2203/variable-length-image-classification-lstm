@@ -6,3 +6,4 @@ Using recurrent neural nets (RNNs) for a slightly non-standard application: imag
 
 The architecture is an RNN with an LSTM cell, including an input layer, an LSTM layer, and a fully connected layer. It takes input data and produces the final output. 
 
+Ref: https://chinmayhegde.github.io/dl-notes/
